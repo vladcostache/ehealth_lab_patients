@@ -1,6 +1,10 @@
 # E-Health Lab 2 - Angular Patients
 
 This project is the SPA (single page application) which shows some patients details from a a table file.
+
+### Screenshot
+
+![no photo]("patients_ss.PNG")
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 

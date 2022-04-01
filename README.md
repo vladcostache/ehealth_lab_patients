@@ -4,7 +4,7 @@ This project is the SPA (single page application) which shows some patients deta
 
 ### Screenshot
 
-![no photo]("patients_ss.PNG")
+![no photo]("./patients_ss.PNG")
  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
